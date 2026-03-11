@@ -1,1 +1,45 @@
-# week-13-schedule
+# Schema, vecka 13
+###### Frontendramverk, vecka 1 av 7
+
+## Introduktion
+
+React är ett av de mest populära ramverken för att bygga moderna webbapplikationer. I denna modul kommer vi att gå igenom grunderna i React, inklusive hur vi bygger komponenter och skickar data mellan dem med hjälp av props. 
+Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denna modul kommer du ha en stabil grund för att skapa dina första React-appar!
+
+## Mål för veckan:
+
+1. Förstå poängen med att använda ett ramverk framför vanilla JS
+2. Förstå hur man skapar ett Reactprojekt
+3. Förstå den grundläggande syntaxen och strukturen i React
+4. Förstå vad komponenter är och vilken funktion de fyller
+5. Förstå hur vi kan använda props för att skicka data mellan komponenter
+
+## Resurser
+
+### Presentationer
+
+* [01 - Kursintro]()
+* [02 - Introduktion till React]()
+* [03 - Props]()
+
+### Inspelade föreläsningar
+
+
+### Lektionsrepon
+
+
+### Filmer
+
+* [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza) - Film 1 till 20 är relevanta för den första veckan
+* [Learn React JS - Full Beginner’s Tutoria, 16h](https://www.youtube.com/watch?v=x4rFhThSX04)
+
+### Länkar
+
+* [React-dokumentation](https://react.dev/)
+* [Node.js installation](https://nodejs.org/en)
+* [Node Package Manager - hitta bibliotek](https://www.npmjs.com/)
+* [Scrimba React Course](https://scrimba.com/learn-react-c0e)
+* [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en&pli=1)
+
+### Övningar 
+
