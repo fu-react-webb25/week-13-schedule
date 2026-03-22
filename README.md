@@ -43,3 +43,5 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 
 ### Övningar 
 
+* [First Recat App](https://github.com/fu-react-webb25/week-13-exercise-first-react-app)
+* [Components Bootcamp](https://github.com/fu-react-webb25/week-13-exercise-components-bootcamp)
