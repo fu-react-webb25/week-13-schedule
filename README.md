@@ -18,15 +18,16 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 
 ### Presentationer
 
-* [01 - Kursintro]()
-* [02 - Introduktion till React]()
-* [03 - Props]()
+* [01 - Kursintro](https://docs.google.com/presentation/d/19CLllpSWFXiCOE2TcccAi0lUKL8Q2hOF/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [02 - Introduktion till React](https://docs.google.com/presentation/d/1h7dcVghJ2OwQHI4E-pytoUsMLQyWjQA6/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [03 - Props](https://docs.google.com/presentation/d/1jc_ziPJQLQyQ5L4S_4iXsEPcS9B8q-MB/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
 
 ### Lektionsrepon
 
+* [23 mars]()
 
 ### Filmer
 
@@ -43,5 +44,5 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 
 ### Övningar 
 
-* [First Recat App](https://github.com/fu-react-webb25/week-13-exercise-first-react-app)
+* [First React App](https://github.com/fu-react-webb25/week-13-exercise-first-react-app)
 * [Components Bootcamp](https://github.com/fu-react-webb25/week-13-exercise-components-bootcamp)
