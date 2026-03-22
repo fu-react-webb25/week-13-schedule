@@ -41,6 +41,7 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 * [Node Package Manager - hitta bibliotek](https://www.npmjs.com/)
 * [Scrimba React Course](https://scrimba.com/learn-react-c0e)
 * [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en&pli=1)
+* [Thinking in React](https://react.dev/learn/thinking-in-react)
 
 ### Övningar 
 
