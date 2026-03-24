@@ -31,6 +31,7 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 ### Lektionsrepon
 
 * [23 mars](https://github.com/fu-react-webb25/week-13-lecture-23-mars)
+* [25 mars](https://github.com/fu-react-webb25/week-13-lecture-25-mars)
 
 ### Filmer
 
@@ -50,3 +51,4 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 
 * [First React App](https://github.com/fu-react-webb25/week-13-exercise-first-react-app)
 * [Components Bootcamp](https://github.com/fu-react-webb25/week-13-exercise-components-bootcamp)
+* [Bookstore](https://github.com/fu-react-webb25/week-13-exercise-bookstore) - Veckans Code Review-uppgift!
