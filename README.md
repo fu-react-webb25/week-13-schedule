@@ -27,6 +27,7 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 * [Kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBMGy6688hCQ7fZQEoI4SOhAVPc37r549HnxBMQykZK8Q8?e=iuicOr)
 * [React Intro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQAfY-1W5oa1TqPJpypwDnryAQnypp1fwx_KURlxZCZLo3o?e=St3ueM)
 * [Props](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCqoB0Bd6WfSKXAx7ONeKaeAUeXQ7IPlNAzSEU4MiEz_4w?e=XxHHJQ)
+* [Code Along, PokeDB](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCI0YEnOkk8QI358e1Oq-85AcQgFQFnbE5fHbrA7ascctU?e=mTkl3S)
 
 ### Lektionsrepon
 
